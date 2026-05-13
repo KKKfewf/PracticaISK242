@@ -1,3 +1,3 @@
-# PracticaISK242
+# [DEMO] PracticaISK242
 ## О технологии
 Проект использует Git, Markdown, диаграммы в формате PlantUML (текстовое описание).
